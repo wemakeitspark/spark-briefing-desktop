@@ -10,12 +10,12 @@ Altijd een duidelijk overzicht van je taken, planning en prioriteiten. De app la
 
 Geen losse documenten meer. Geen onleesbare pdf's. Geen spreadsheets die niemand bijhoudt. Gewoon duidelijke informatie, precies wanneer je die nodig hebt.
 
-**WAT THE BRIEF VOOR JOU DOET**
-• Interactieve briefings
-• Real-time updates
-• Naadloze kalendersynchronisatie
-• Always-on notificaties, zodat je nooit wat mist
-• Cross-platform: telefoon, watch en desktop
+**WAT THE BRIEF VOOR JOU DOET**  
+• Interactieve briefings  
+• Real-time updates  
+• Naadloze kalendersynchronisatie  
+• Always-on notificaties, zodat je nooit wat mist  
+• Cross-platform: telefoon, watch en desktop  
 
 Voor productieteams die meer willen dan een gedeelde map met documenten.
 
